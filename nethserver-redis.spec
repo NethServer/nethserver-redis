@@ -1,7 +1,7 @@
 Summary: NethServer redis configuration
 Name: nethserver-redis
-Version: @@VERSION@@
-Release: @@RELEASE@@
+Version: 1.0.0
+Release: 1
 License: GPL
 URL: %{url_prefix}/%{name} 
 Source0: %{name}-%{version}.tar.gz
